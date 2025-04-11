@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "25886713465",
+    "firebase_url": "https://crisp-63736-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crisp-63736",
+    "storage_bucket": "crisp-63736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25886713465:android:ab2207590dba57ce1d96a8",
+        "android_client_info": {
+          "package_name": "com.crisp.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuXX1u-q_Pdz4kEg1wphAG8Yk1rAl6uW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

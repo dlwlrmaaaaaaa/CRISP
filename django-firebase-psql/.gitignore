@@ -1,0 +1,14 @@
+env/
+venv/
+app/api/models/
+app/api/__pycache__/
+app/app/__pycache__/
+*.pyc
+*.pyo
+app/settings.py/
+./app/app/firebase.py
+
+./app/app/temporary_path
+/app/temporary_path
+app/app/config
+app/config

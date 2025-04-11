@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "type": "False Information",
+    "description": "The document contains information that is factually incorrect or misleading."
+  },
+  {
+    "id": "2",
+    "type": "Hate Crime",
+    "description": "The document contains content that constitutes or incites hate crimes against individuals or groups based on attributes such as race, religion, or sexual orientation."
+  },
+  {
+    "id": "3",
+    "type": "Inaccuracy",
+    "description": "The document includes errors or inaccuracies in the presented information."
+  },
+  {
+    "id": "4",
+    "type": "Confidentiality",
+    "description": "The document contains information that should be kept confidential but is disclosed or accessible inappropriately."
+  },
+  {
+    "id": "5",
+    "type": "Redundancy",
+    "description": "The document includes repetitive information that does not add new value or clarity."
+  },
+  {
+    "id": "6",
+    "type": "Outdated Report",
+    "description": "The document is based on information that is no longer current or relevant."
+  },
+  {
+    "id": "7",
+    "type": "Irrelevant",
+    "description": "The document contains information that is not pertinent or applicable to the context or subject matter at hand."
+  }
+]

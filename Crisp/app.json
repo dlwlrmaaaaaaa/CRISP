@@ -1,0 +1,79 @@
+{
+  "expo": {
+    "name": "Crisp",
+    "slug": "Crisp",
+    "version": "1.0.9",
+    "orientation": "portrait",
+    "icon": "./assets/images/android-icon.png",
+    "scheme": "crisp",
+    "userInterfaceStyle": "automatic",
+    "owner": "thesis-group",
+    "splash": {
+      "image": "./assets/images/splash_screen.png",
+      "resizeMode": "cover"
+    },
+    "jsEngine": "hermes",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAe1iu4272Y5pQ6ccdJUYEAp6qyTAbM_-0"
+        }
+      },
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/android-icon.png",
+        "backgroundColor": "#00000000"
+      },
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION",
+        "INTERNET"
+      ],
+      "package": "com.crisp.notification"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/android-icon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-camera",
+      "expo-asset",
+      "expo-location",
+      "expo-secure-store",
+      "@config-plugins/react-native-webrtc"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "API_KEY": "AIzaSyCEKoeUmd_Nps_xNbDdGAYqPLZPibHYppA",
+      "AUTH_DOMAIN": "crisp-63736.firebaseapp.com",
+      "DB_URL": "https://crisp-63736-default-rtdb.asia-southeast1.firebasedatabase.app",
+      "PROJECT_ID": "crisp-63736",
+      "BACKEND_URL": "https://django-firebase-psql-production.up.railway.app/",
+      "STORAGE_BUCKET": "crisp-63736.appspot.com",
+      "ID": "25886713465",
+      "APP_ID": "1:25886713465:web:021f343b5785e55c1d96a8",
+      "MEASUREMENT_ID": "G-NSBZMHRT4X",
+      "ROBOFLOW_API_KEY": "5P7dtdzXPf6Y9WZ4cTug",
+      "ROBOFLOW_URL": "https://django-firebase-psql-production.up.railway.app/api/image/",
+      "router": {
+        "origin": false
+      },
+      "apiUrl": "https://django-firebase-psql-production.up.railway.app/",
+      "apiDevUrl": "https://django-firebase-psql-production.up.railway.app/",
+      "eas": {
+        "projectId": "c7b9d51e-3b89-4da1-a947-b1d13c069826"
+      }
+    }
+  }
+}

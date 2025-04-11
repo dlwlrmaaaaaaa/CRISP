@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "phone_number": "+1-555-123-4567",
+    "verified": "yes",
+    "violation": 0,
+    "status": "active",
+    "type": "admin",
+    "email_address": "john.doe@example.com",
+    "id_number": "A1234567",
+    "department": "Barangay",
+    "station": "Barangay Hall of Springfield",
+    "station_address": "123 Elm Street, Springfield",
+    "password": "12345678",
+    "photo": "https://plus.unsplash.com/premium_photo-1683121366070-5ceb7e007a97?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "selfie_w_id": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxuOmxGGhqnO_nqk6U3IzrpPhm9Wbnudh64g&s",
+    "id_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFhwbMgNCkIHxw5zlHqNy1_ZS5EDZR4d87g&s"
+  }
+]

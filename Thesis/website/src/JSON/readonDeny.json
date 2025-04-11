@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "type": "Incorrect Information",
+    "description": "The document contains information that is factually incorrect or misleading."
+  },
+  {
+    "id": "2",
+    "type": "Unclear or Poor-Quality Documents",
+    "description": "The document is poorly formatted, hard to read, or lacks clarity."
+  },
+  {
+    "id": "3",
+    "type": "Mismatch in Details",
+    "description": "There are inconsistencies or discrepancies in the details provided in the document."
+  },
+  {
+    "id": "4",
+    "type": "Incomplete Submission",
+    "description": "The document is missing required information or sections, making it incomplete."
+  }
+]
